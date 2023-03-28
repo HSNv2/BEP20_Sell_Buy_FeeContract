@@ -6,8 +6,8 @@ It includes the following features.
 * Fee address can be set later.  
 
 <h3>Requirements</h3>
- * Install Metamask on the browser.
- * Visit the Remix Ethereum.
+ * Install Metamask on the browser.<br>
+ * Visit the Remix Ethereum.<br>
  
 - https://remix.ethereum.org/<br>
 
