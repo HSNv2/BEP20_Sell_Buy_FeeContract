@@ -5,6 +5,12 @@ It includes the following features.
 * Sell and Buy rates can be changed. 
 * Fee address can be set later.  
 
+<h3>Requirements</h3>
+ * Install Metamask on the browser.
+ * Visit the Remix Ethereum.
+ 
+- https://remix.ethereum.org/<br>
+
 Before signing the contract you need to determine the Total Supply.<br>
 ![image](https://user-images.githubusercontent.com/44619951/228122720-3fff8e4c-c01c-4f14-b6b0-4644bee3256e.png)
 
