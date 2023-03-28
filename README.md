@@ -10,3 +10,8 @@ Before signing the contract you need to determine the Total Supply.<br>
 
 
 Do not use this contract for malicious purposes, no liability is accepted in case of use.
+
+
+<h3>DONATE</h3>
+Binance Smart Chain & Ethereum
+0x7cF46B31F32a1b045F7E5595D0a8EeA16114A266
