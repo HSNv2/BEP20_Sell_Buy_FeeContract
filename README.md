@@ -20,4 +20,4 @@ Do not use this contract for malicious purposes, no liability is accepted in cas
 
 <h2>DONATE</h2>
 Binance Smart Chain & Ethereum<br>
-<b>0x7cF46B31F32a1b045F7E5595D0a8EeA16114A266</b>
+<b>0x59eed5ACf8274263Db17190690ff6842Bd7b3593</b>
